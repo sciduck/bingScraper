@@ -22,4 +22,5 @@ python3 scraper.py -h
 | -o         | output directory |
 
 
-Credits: [Adrian Rosebrock](https://github.com/jrosebr1)
+Credits: [Adrian Rosebrock](https://github.com/jrosebr1) 🥳
+
