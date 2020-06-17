@@ -7,7 +7,7 @@ cd datasets/ && mkdir <subclass_name>
 ```
 Run the python script in terminal with the required arguments
 ```
-python3 scraper.py -q "<relevant keywords>" -o /datasets/<subclass_name>
+python3 scraper.py -q "<relevant keywords>" -n <integer value> -o /datasets/<subclass_name> 
 ```
 For help
 ```
@@ -18,6 +18,7 @@ python3 scraper.py -h
 | ---------- | -----------------|
 | -h         | help message     |
 | -q         | query            |
+| -n         | number of results|
 | -o         | output directory |
 
 
