@@ -1,6 +1,10 @@
 # bingScraper
 A simple web-scraper using the Bing Image Search API <br>
 
+Link your [Bing Search API-Key](https://azure.microsoft.com/en-us/try/cognitive-services/?api=bing-image-search-api) 
+```
+touch api.key && echo "<API_KEY>" > api.key
+```
 Make a folder inside the datasets folder for your subclass 
 ```
 cd datasets/ && mkdir <subclass_name>
