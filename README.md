@@ -2,7 +2,7 @@
 A simple web-scraper using the Bing Image Search API <br>
 
 <br>
-<b>Usage:</b>
+<b>Usage:</b> <br>
 Make a folder inside the datasets folder for your subclass 
 ```
 cd datasets/ && mkdir <subclass_name>
