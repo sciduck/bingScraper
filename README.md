@@ -11,7 +11,7 @@ cd datasets/ && mkdir <subclass_name>
 ```
 Run the python script in terminal with the required arguments
 ```bash
-python3 scraper.py -q "<relevant keywords>" -n <integer value> -o /datasets/<subclass_name> 
+python3 scraper.py -q "<relevant keywords>" -n <integer value> -o datasets/<subclass_name> 
 ```
 For help
 ```bash
